@@ -1,6 +1,7 @@
 # Linux
 
 change permission
+
 a  all
 
 r  read, w  write, x  execute
