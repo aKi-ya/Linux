@@ -12,3 +12,7 @@ check permission
 ```
 $ls -l
 ```
+copy files across server 
+```
+scp file_to_transfer akshay@10.121.1.2:destination_folder
+```
