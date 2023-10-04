@@ -18,3 +18,11 @@ copy files across server
 ```
 scp file_to_transfer akshay@10.121.1.2:destination_folder
 ```
+
+change GPU
+````
+export CUDA_VISIBLE_DEVICES=3
+````
+````
+python test.py
+````
